@@ -9,6 +9,10 @@ permalink: /about/
 ## 관심분야
 
 ## 사용가능한 Tools
+R
+Python
+SAS
+SQL
 
 ## 데이터 분석 project
 
