@@ -1,11 +1,12 @@
-# "My Title"
-> "Awesome summary"
+# "데이터마이닝 ipynd"
+> "datamining"
 
 - toc:true- branch: master
 - badges: true
 - comments: true
-- author: Hamel Husain & Jeremy Howard
+- author: hyunsookim0813
 - categories: [fastpages, jupyter]
+
 {
   "nbformat": 4,
   "nbformat_minor": 0,
